@@ -1,1 +1,1 @@
-# PSD-to-HTML-Project.hithub.io
+# PSD-to-HTML-Project.github.io
